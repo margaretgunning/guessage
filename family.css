@@ -1,0 +1,227 @@
+
+
+a:link {color: white;
+	
+}
+
+a:visited {color: white;
+}
+
+
+.happybirthdaymam {width:100%;
+		background-color: pink;
+		color:black;
+		height: 200%;
+		font-size: 30px;
+		text-align: center; 
+		float: left; 
+		
+
+}
+
+.images  {background-color:black;
+		color: white; 
+		width: 96%;
+		padding: 2%;
+		font-size:40px;	 
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		cursor:grab;
+		margin: auto; 
+		text-align: center;
+}
+
+.images2  {background-color:black;
+		color: white; 
+		width: 96%;
+		padding: 2%;
+		font-size:40px;	 
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		cursor:grab;
+		margin: auto; 	
+		text-align: center;
+}
+
+.names  {background-color:pink;
+		color: black; 
+		width: 100%;
+		font-size:30px;	 
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		cursor:grab;
+		margin: auto; 	
+		text-align: center;
+}
+
+.container   {min-width: 100%;
+			margin: auto;
+			display: block;			
+}
+
+
+	
+
+.boxtwo { background-color:#d8dfe1;
+		background-image: url('pic1.jpg'); 
+		background-size: cover; 
+		color: white; 
+		font-size: 30px;
+		font-family: 'Dosis';
+		font-stretch: ultra-expanded;
+		float: clear; 
+		max-width:100%; 
+		height: 500px;
+		text-align: center;
+		background-repeat: no-repeat; 
+		background-attachment: fixed;
+		background-position: center; 
+		padding: 3%; 
+		margin: auto; 
+		font-weight: bold;
+			
+}
+
+
+
+
+	
+	
+
+.facebook   {
+	
+			float: right;
+			background-color:black;
+			width: 1%;
+			height: 100%; 
+			padding:4%;
+			font-size: 30px;
+			color: white;
+			margin: auto; 
+}
+
+
+.tiktok   {
+	
+			float: right;
+			background-color:black;
+			width: 1%;
+			height: 100%; 
+			padding: 4%; 
+			font-size: 30px;
+			color: white;
+			margin: auto; 
+}	
+
+.insta   {
+	
+			float: right;
+			background-color:black;
+			width: 1%;
+			height: 100%; 
+			padding:4%;
+			
+			font-size: 30px;
+			color: white;
+			margin: auto; 
+			
+}	
+
+.thumbnail:hover {
+    position:relative;
+    top:-20px;
+    left:-20px;
+    width:40px;
+    height:20;
+    display:block;
+    z-index:999;
+}
+
+@media only screen and (max-width: 600px) {
+
+.container { height: 100%;
+			width: 100%;
+}
+
+   
+	
+	 .images { 
+		
+	  float: none;
+      width: auto;
+	 display: block;
+
+    }
+
+.popup  { 
+		float: none;
+      width: 100%;
+	 display: block;
+	 background-color: white;
+
+    }
+	
+	.specials  { 
+	display: none;
+
+    }
+	
+	.box3  { 
+
+      width: 100%;
+	 
+    }
+	
+	.logo
+	{ 
+
+      font-size: 30px;
+	  width: 30%
+	 
+    }
+	
+	.nav1
+	{ 
+
+      font-size: 25px;
+	  width: 10%
+	 
+    }
+	
+	.nav2
+	{ 
+
+      font-size: 25px;
+	  width: 10%
+	 
+    }
+	
+	.dinein 
+	{ 
+
+      display: none;
+	 
+    }
+	
+	.aboutus {width: 15%;
+		font-size: 20px;
+	}
+	
+	.contact 
+	{ 
+
+      width: 15%;
+	  font-size: 20px;
+	 
+    }
+	
+	.careers
+	{ 
+
+      width: 15%;
+	  font-size: 20px;
+	 
+    }
+
+
+
